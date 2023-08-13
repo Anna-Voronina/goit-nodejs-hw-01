@@ -1,6 +1,6 @@
 ## Screenshots of CLI application work:
 
-- [List_action_type](https://monosnap.com/file/sfAsH3RnYb5Ebp6GN0OiScZpH508vy)
-- [Get_action_type](https://monosnap.com/file/vHaprJgiL532ojGvKlZVvJ7Ijl8D2X)
-- [Add_action_type](https://monosnap.com/file/SH2gvTf2Fr7lQTYNeqWGsnwUAg55Or)
-- [Remove_action_type](https://monosnap.com/file/qHNoIfRZnC1Zrw7AcQnec1U9VV6fpv)
+- [List_action_type](https://monosnap.com/file/hKBzHBgjKQX5WWXbYyyfz1ZnfUvn6E)
+- [Get_action_type](https://monosnap.com/file/BnhfKBYozsvKIaKvK65BGB9qqDxiYP)
+- [Add_action_type](https://monosnap.com/file/3lNXeyI2GJ8khEa0KJ05Qz0ShZouV3)
+- [Remove_action_type](https://monosnap.com/file/7AUjBtJU2Rl60OXAMCDlWcTK03OuoF)
